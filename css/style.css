@@ -1,0 +1,32 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+body{
+    background-color: #2b1d0f;
+    color: #fff;
+}
+#rowData img{
+    width:100%;
+    height: 150px;
+}
+.modal .modal-body{
+    background-color: #2b1d0f;
+}
+.modal .modal-body img{
+    width: 100%;
+    height: 200px;
+    
+}
+.modal .modal-header{
+   background-color: #2b1d0f;
+    
+}
+.modal .modal-header button{
+  background-color: #dc3545;
+    
+}
